@@ -7,11 +7,11 @@
         <deviceKey>
           <Key>
             <type value="VIRTUAL_DEVICE_PATH" />
-            <value value="C:\Users\B10\.android\avd\samphony4_API_25.avd" />
+            <value value="C:\Users\B10\.android\avd\Enamul_phone_API_25.avd" />
           </Key>
         </deviceKey>
       </Target>
     </targetSelectedWithDropDown>
-    <timeTargetWasSelectedWithDropDown value="2023-03-06T03:49:20.696701700Z" />
+    <timeTargetWasSelectedWithDropDown value="2023-03-07T04:27:48.288991400Z" />
   </component>
 </project>
